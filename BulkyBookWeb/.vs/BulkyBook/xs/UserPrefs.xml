@@ -1,4 +1,42 @@
 ﻿<Properties StartupConfiguration="{0FB34A0E-DC94-4E6A-B838-55B1515E7573}|Default">
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CategoryController.cs">
+    <Files>
+      <File FileName="Controllers/CategoryController.cs" Line="71" Column="10" />
+      <File FileName="Views/Category/Index.cshtml" Line="35" Column="37" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="10" Column="111" />
+      <File FileName="Views/Category/Create.cshtml" Line="22" Column="13" />
+      <File FileName="Models/Category.cs" Line="6" Column="6" />
+      <File FileName="Views/Category/Edit.cshtml" Line="13" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BulkyBook" expanded="True">
+            <Node name="BulkyBookWeb" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Category" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
